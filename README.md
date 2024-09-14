@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/timeblade0/StateCapitalQuizJava/blob/002_java/screenshot.PNG)
+![Screenshot](https://github.com/timeblade0/StateCapitalQuiz/blob/002_java/screenshot.PNG)
 
 # State Capital Quiz Java
 - Quiz the user on random state capitals.
