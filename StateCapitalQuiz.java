@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class state_capital_quiz {
+public class StateCapitalQuiz {
     public static void main(String[] args) {
         // create a list of the states
         String[][] statesAndCapitals = {
